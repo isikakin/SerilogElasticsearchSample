@@ -1,0 +1,8 @@
+C:\Users\Akin\source\repos\ElasticSearchConfig\bin\Debug\netcoreapp3.1\ElasticsearchConfig.deps.json
+C:\Users\Akin\source\repos\ElasticSearchConfig\bin\Debug\netcoreapp3.1\ElasticsearchConfig.dll
+C:\Users\Akin\source\repos\ElasticSearchConfig\bin\Debug\netcoreapp3.1\ElasticsearchConfig.pdb
+C:\Users\Akin\source\repos\ElasticSearchConfig\obj\Debug\netcoreapp3.1\ElasticsearchConfig.AssemblyInfoInputs.cache
+C:\Users\Akin\source\repos\ElasticSearchConfig\obj\Debug\netcoreapp3.1\ElasticsearchConfig.AssemblyInfo.cs
+C:\Users\Akin\source\repos\ElasticSearchConfig\obj\Debug\netcoreapp3.1\ElasticsearchConfig.csproj.CoreCompileInputs.cache
+C:\Users\Akin\source\repos\ElasticSearchConfig\obj\Debug\netcoreapp3.1\ElasticsearchConfig.dll
+C:\Users\Akin\source\repos\ElasticSearchConfig\obj\Debug\netcoreapp3.1\ElasticsearchConfig.pdb
